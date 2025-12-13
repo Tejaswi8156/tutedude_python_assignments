@@ -51,11 +51,41 @@ python Task4.py
 
 ---
 
+## Task 5: Calculate Factorial Using a Function
+
+### Description:
+- Defines a function named factorial that takes a number as an argument.
+- Calculates the factorial using a loop.
+- Returns the calculated factorial.
+- Calls the function and prints the output.
+
+### How to run:
+python Task5.py
+
+---
+
+## Task 6: Using the Math Module for Calculations
+
+### Description:
+- Asks the user for a number as input.
+- Uses the math module to calculate:
+  - Square root of the number
+  - Natural logarithm (log base e) of the number
+  - Sine of the number (in radians)
+- Displays the calculated results.
+
+### How to run:
+python Task6.py
+
+---
+
 ## Files Included
 - Task1.py — Python script for Task 1
 - Task2.py — Python script for Task 2
 - Task3.py — Python script for Task 3
 - Task4.py — Python script for Task 4
+- Task5.py — Python script for Task 5
+- Task6.py — Python script for Task 6
 
 ---
 
