@@ -79,6 +79,30 @@ python Task6.py
 
 ---
 
+## Task 7: Read a File and Handle Errors
+
+### Description:
+- Opens and reads a text file named sample.txt.
+- Prints its content line by line.
+- Handles errors gracefully if the file does not exist.
+
+### How to run:
+python Task7.py
+
+---
+
+## Task 8: Write and Append Data to a File
+
+### Description:
+- Takes user input and writes it to a file named output.txt.
+- Appends additional data to the same file.
+- Reads and displays the final content of the file.
+
+### How to run:
+python Task8.py
+
+---
+
 ## Files Included
 - Task1.py — Python script for Task 1
 - Task2.py — Python script for Task 2
@@ -86,6 +110,8 @@ python Task6.py
 - Task4.py — Python script for Task 4
 - Task5.py — Python script for Task 5
 - Task6.py — Python script for Task 6
+- Task7.py — Python script for Task 7
+- Task8.py — Python script for Task 8
 
 ---
 
