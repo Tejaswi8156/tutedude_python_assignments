@@ -51,7 +51,9 @@ python Task4.py
 
 ---
 
-## Task 5: Calculate Factorial Using a Function
+# TuteDude Python Assignments
+
+## Task 5: Factorial of a Number
 
 ### Description:
 - Defines a function named factorial that takes a number as an argument.
@@ -103,6 +105,32 @@ python Task8.py
 
 ---
 
+## Task 9: Create a Dictionary of Student Marks
+
+### Description:
+- Creates a dictionary with student names as keys and their marks as values.
+- Asks the user to enter a student's name.
+- Displays the corresponding marks if the student exists.
+- Displays an appropriate message if the student is not found.
+
+### How to run:
+python Task9.py
+
+---
+
+## Task 10: Demonstrate List Slicing
+
+### Description:
+- Creates a list of numbers from 1 to 10.
+- Extracts the first five elements using list slicing.
+- Reverses the extracted elements.
+- Prints the original list, extracted list, and reversed list.
+
+### How to run:
+python Task10.py
+
+---
+
 ## Files Included
 - Task1.py — Python script for Task 1
 - Task2.py — Python script for Task 2
@@ -112,6 +140,8 @@ python Task8.py
 - Task6.py — Python script for Task 6
 - Task7.py — Python script for Task 7
 - Task8.py — Python script for Task 8
+- Task9.py — Python script for Task 9
+- Task10.py — Python script for Task 10
 
 ---
 
