@@ -51,8 +51,6 @@ python Task4.py
 
 ---
 
-# TuteDude Python Assignments
-
 ## Task 5: Factorial of a Number
 
 ### Description:
